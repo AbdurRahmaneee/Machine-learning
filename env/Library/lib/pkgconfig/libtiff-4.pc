@@ -1,0 +1,11 @@
+prefix=D:/Skill course/ML/heart-disease-project/env/Library
+exec_prefix=D:/Skill course/ML/heart-disease-project/env/Library
+libdir=D:/Skill course/ML/heart-disease-project/env/Library/lib
+includedir=D:/Skill course/ML/heart-disease-project/env/Library/include
+
+Name: libtiff
+Description:  Tag Image File Format (TIFF) library.
+Version: 4.2.0
+Libs: -LD:/Skill course/ML/heart-disease-project/env/Library/lib -ltiff
+Libs.private: 
+Cflags: -ID:/Skill course/ML/heart-disease-project/env/Library/include
